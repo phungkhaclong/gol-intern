@@ -1,0 +1,8 @@
+git init
+-> khởi tạo repo dưới local
+
+Step 2: git checkout -b longpk
+-> tạo nhánh mới tên là longpk
+Step 3: Commit code
+ - git add .   -> git tất cả các file 
+ - git commit -m " up code " 
